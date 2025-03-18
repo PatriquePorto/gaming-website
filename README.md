@@ -2,13 +2,12 @@
 ## Introduction: 
 #### 🚀 Modern Gaming Website with HTML5, CSS3 and JS 🌟
 
-</br>
 <!--<img src="/preview.png" width="100%"></img>-->
-</br>
+
 
 <br>
 
-## 🚀 Tecnologies used:
+## 🚀 Technologies used:
 
 This project was developed with the following technologies:
 
