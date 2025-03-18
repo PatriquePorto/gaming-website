@@ -17,7 +17,7 @@ body {
 /* Header */
 
 header {
-    position: absolute;
+    position: fixed;
     top: 0;
     right: 0;
     left: 0;
@@ -553,12 +553,22 @@ header {
     header{
         padding: 0 10px;
     }
+    header img{
+        margin-left: 20px;
+    }
     .head-left button{
         display: none;
+    }
+    .head-right{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 20%;
     }
     .head-right a{
         font-size: 12px;
         padding: 0 5px;
+
     }
     .hero-info{
         left: 5%;
